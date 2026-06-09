@@ -1,2 +1,20 @@
-# lucky-number-calculator
-🌟 My first Python project!  This simple program calculates your lucky number based on your date of birth. Just enter your DOB, and the program will add the digits together until a single-digit lucky number is generated.  I'm a new programmer, and this project is part of my learning journey. Feedback and suggestions are welcome!
+# Lucky Number Calculator
+
+A simple Python program that calculates your lucky number from your date of birth.
+
+## How to Use
+1. Run the program.
+2. Enter your DOB in DDMMYYYY format.
+3. Get your lucky number!
+
+## Example
+Input:
+15122007
+
+Output:
+9
+
+## Author
+peedan_paws (sdeep k)
+
+This is my first Python project. Feedback and suggestions are welcome!
